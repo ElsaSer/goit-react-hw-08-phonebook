@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.742c74a0.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.f2bcbf2f.js",
+    "static/js/490.99bbfb96.chunk.js": "/goit-react-hw-08-phonebook/static/js/490.99bbfb96.chunk.js",
+    "static/js/207.7ab5fbbb.chunk.js": "/goit-react-hw-08-phonebook/static/js/207.7ab5fbbb.chunk.js",
+    "static/js/539.444ba960.chunk.js": "/goit-react-hw-08-phonebook/static/js/539.444ba960.chunk.js",
+    "static/js/662.bfee93a5.chunk.js": "/goit-react-hw-08-phonebook/static/js/662.bfee93a5.chunk.js",
+    "static/js/694.5f3af5b3.chunk.js": "/goit-react-hw-08-phonebook/static/js/694.5f3af5b3.chunk.js",
+    "static/js/929.0876b575.chunk.js": "/goit-react-hw-08-phonebook/static/js/929.0876b575.chunk.js",
+    "static/media/antique-dial-phone-rotary-black-95536845.jpeg": "/goit-react-hw-08-phonebook/static/media/antique-dial-phone-rotary-black-95536845.e49bd1e4561fddd9534c.jpeg",
+    "static/media/telephone.jpg": "/goit-react-hw-08-phonebook/static/media/telephone.9f07d6ea070e8b71d754.jpg",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "main.742c74a0.css.map": "/goit-react-hw-08-phonebook/static/css/main.742c74a0.css.map",
+    "main.f2bcbf2f.js.map": "/goit-react-hw-08-phonebook/static/js/main.f2bcbf2f.js.map",
+    "490.99bbfb96.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/490.99bbfb96.chunk.js.map",
+    "207.7ab5fbbb.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/207.7ab5fbbb.chunk.js.map",
+    "539.444ba960.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/539.444ba960.chunk.js.map",
+    "662.bfee93a5.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/662.bfee93a5.chunk.js.map",
+    "694.5f3af5b3.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/694.5f3af5b3.chunk.js.map",
+    "929.0876b575.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/929.0876b575.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.742c74a0.css",
+    "static/js/main.f2bcbf2f.js"
+  ]
+}
